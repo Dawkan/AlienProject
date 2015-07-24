@@ -5,8 +5,18 @@ Detail Design :
 Introduction -----1
 	Le jeux met en contexte une guerre entre fermier et extraterrestres.
 
+	Classe :
+
 Fermier -1
 	Les fermiers doivent défendre leur ferme face à une horde d'extraterrestres. 
-	Plusieurs possibilités s'offre au joueur comme de poser des défenses, mur de bois, barbelé artisanal, Fortification, ect.
-	Il offre aussi la possibilité de construire des tourelles anti-air, tourelle anti-infantrie 
-
+	Plusieurs possibilités s'offre au joueur comme de poser des défenses, mur de bois, barbelé artisanal, Fortification, amelioration stat,
+     custumisation du perso, ect.
+	Il offre aussi la possibilité de construire des tourelles anti-air, tourelle anti-infantrie, ect.
+	
+	Les fermiers doivent recuperer des ressource tel que le bois ou le metal 
+	(Materiaux secondaire pris sur les epave de vaisseau abbatu) 
+	
+	
+Extraterrestre -2
+    Les extraterrestres doivent attaquer la base des fermier.
+	Les possibilités des extraterrestres son lhybridation du betail, amelioration du vaisseau, Custumisation du perso et vaisseau, ect.
