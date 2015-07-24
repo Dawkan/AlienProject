@@ -1,0 +1,22 @@
+
+[ NOM DU JEU ]
+
+Detail Systeme : 
+	
+	Prévoir une sauvegarde de profil pour chaque race donc :
+	
+		Le joueur rentre sur le jeu et a la possibilité de choisir sa race après il a la possibilité de choisir son profil ou d'en créer
+		un nouveau
+		
+		
+		* Son profil est bon seulement avec la race qu'il a choisi précédement
+				
+				Exemple : 		Race choisi -> Alien
+								Profil crée et qui peut être séléctionné dans l'avenir -> Joyvax 
+								
+								restart du jeu par le joueur
+								
+								Race Choisi -> Humain
+								Profil pouvant être séléctionné -> Aucun 
+								
+								
