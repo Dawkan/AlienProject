@@ -1,0 +1,32 @@
+
+[ NOM DU JEU ]
+
+Detail Gameplay : 
+	
+	Screen : 
+		Choix de la race :
+							Choix de la race : 2 gameplay différent !!!!
+
+				Main Menu :
+							 Image background : [Nom de l'image]
+							 HUD : [Nom de l'image]
+							 
+					Intéractions entre menu
+						: Options 
+						: choix de du style de jeu = Solo ou Multi
+						: Tutorial ( le jeu solo pourrait permettre de faire le tuto ou de le passer ??)
+						
+				Options :
+					 Image background : même que MainMenu
+							 HUD : [Nom de l'image]
+							 
+					Intéraction entre menu
+						: Retour au MainMenu
+						
+				
+				Tutorial : 
+						-> début du tuto 
+				
+				
+				
+					
