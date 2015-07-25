@@ -1,8 +1,12 @@
+
+[ NOM DU JEU ]
+
 Detail Design : 
 Introduction -----1
-Le jeux met en contexte une guerre fermier et extraterrestre
+	Le jeux met en contexte une guerre entre fermier et extraterrestres.
+
 Fermier -1
-Les fermier doivent defendre leur ferme face a une horde dextraterrestre, 
-Les possibiliter offre au joueur de poser des defense, mur de bois,barbeler artisanal, Fortification,ect.
-Il offre aussi la possibiliter de construire des tourelle anti-air, tourelle anti-infantrie 
+	Les fermiers doivent défendre leur ferme face à une horde d'extraterrestres. 
+	Plusieurs possibilités s'offre au joueur comme de poser des défenses, mur de bois, barbelé artisanal, Fortification, ect.
+	Il offre aussi la possibilité de construire des tourelles anti-air, tourelle anti-infantrie 
 
