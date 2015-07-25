@@ -11,6 +11,11 @@ Detail Gameplay :
 							 Image background : [Nom de l'image]
 							 HUD : [Nom de l'image]
 							 
+							 *** choix du profil 
+										- verification niveau des ressources et du personnage, arsenal etc (impliquer la gestion pourrait être cool)
+							 
+							 [Button Launched that war dans le bas !!!]
+							 
 					Intéractions entre menu
 						: Options 
 						: choix de du style de jeu = Solo ou Multi
@@ -28,5 +33,11 @@ Detail Gameplay :
 						-> début du tuto 
 				
 				
-				
+				[ Facultatif pour la ]  Contenu additionnel PowerUps :
+					
+					Image background : même que MainMenu
+							 HUD : [Nom de l'image]
+							 
+					Intéraction entre menu
+						: Retour au MainMenu
 					
