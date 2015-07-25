@@ -3,11 +3,13 @@
 
 Detail Design Menu : 
 	
+	Musique : [Nom de la musique]
+	
 	Screen : 
 		Choix de la race :
 							Choix de la race : 2 gameplay différent !!!!
-							
-							progression marqué pour chaque
+							Image background : [Nom de l'image]
+							(progression marqué pour chaque)
 
 				Main Menu :
 							 Image background : [Nom de l'image]
@@ -19,6 +21,7 @@ Detail Design Menu :
 							 [Button Launched that war dans le bas !!!]
 							 
 					Intéractions entre menu
+						: Retour au menu choix de race
 						: Options 
 						: choix de du style de jeu = Solo ou Multi
 						: Tutorial ( le jeu solo pourrait permettre de faire le tuto ou de le passer )
@@ -42,4 +45,7 @@ Detail Design Menu :
 							 
 					Intéraction entre menu
 						: Retour au MainMenu
-					
+						
+				Credit : 
+						Image background : [Nom de l'image]
+						Musique : [Nom de la musique]
