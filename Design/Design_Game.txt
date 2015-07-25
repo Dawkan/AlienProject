@@ -1,7 +1,7 @@
 
 [ NOM DU JEU ]
 
-Detail Design : 
+Detail Game Design : 
 Introduction -----1
 	Le jeux met en contexte une guerre entre fermier et extraterrestres.
 
@@ -16,9 +16,8 @@ Fermier -1
 	Les fermiers doivent récuperer des ressources tels que le bois ou le *metal 
 	*(Materiaux secondaires pris sur les epaves de vaisseaux abbatus) 
 	
-?? Il pourrait aussi acheter un chien de berger qui lorsque des aliens sont proche tente de regrouper les animaux et les apporter dans la grange ??
-!Un ia chien pour regrouper les animaux est une exellente idee
-Bonne idee !
+	Il pourrait aussi acheter un chien de berger qui lorsque des aliens sont proche tente de regrouper les animaux et les apporter dans la grange
+
 	
 Extraterrestre -2
     Les extraterrestres doivent attaquer la base des fermier.

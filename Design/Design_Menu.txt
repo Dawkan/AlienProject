@@ -1,11 +1,13 @@
 
 [ NOM DU JEU ]
 
-Detail Gameplay : 
+Detail Design Menu : 
 	
 	Screen : 
 		Choix de la race :
 							Choix de la race : 2 gameplay différent !!!!
+							
+							progression marqué pour chaque
 
 				Main Menu :
 							 Image background : [Nom de l'image]
