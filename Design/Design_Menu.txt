@@ -20,6 +20,7 @@ Detail Gameplay :
 						: Options 
 						: choix de du style de jeu = Solo ou Multi
 						: Tutorial ( le jeu solo pourrait permettre de faire le tuto ou de le passer ??)
+						!Les deux je crois que stune bonne idee ?
 						
 				Options :
 					 Image background : même que MainMenu

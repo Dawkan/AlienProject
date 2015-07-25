@@ -13,13 +13,17 @@ Fermier -1
      custumisation du perso, ect.
 	Il offre aussi la possibilité de construire des tourelles anti-air, tourelle anti-infantrie, ect.
 	
-	Les fermiers doivent récuperer des ressources tels que le bois ou le metal 
-	(Materiaux secondaires pris sur les epaves de vaisseaux abbatus) 
+	Les fermiers doivent récuperer des ressources tels que le bois ou le *metal 
+	*(Materiaux secondaires pris sur les epaves de vaisseaux abbatus) 
 	
 ?? Il pourrait aussi acheter un chien de berger qui lorsque des aliens sont proche tente de regrouper les animaux et les apporter dans la grange ??
+!Un ia chien pour regrouper les animaux est une exellente idee
+Bonne idee !
 	
 Extraterrestre -2
     Les extraterrestres doivent attaquer la base des fermier.
 	Les possibilités des extraterrestres son lhybridation du betail, amélioration du vaisseau, Customisation du perso et vaisseau, ect.
 	
  ??	Il peuvent aussi entrainer leurs leader de troupes (comme un peu le jeu des seigneur des anneaux) ??
+ !Comment tu veux dire , comme une unite general genre ??
+ 
