@@ -9,14 +9,19 @@ Detail Systeme :
 		un nouveau
 		
 		
-		* Son profil est bon seulement avec la race qu'il a choisi précédement
+		* Son profil est bon pour les 2 races et chaque race à sa progression bien à elle
 				
-				Exemple : 		Race choisi -> Alien
-								Profil crée et qui peut être séléctionné dans l'avenir -> Joyvax 
+				Exemple : 		
+							Menu de choix de race ->
+							
+								(les 2 races sont visibles) 
+									d'un bord humain (21 % de progression)
+									de l'autre alien (6 % de progression)
 								
-								restart du jeu par le joueur
-								
-								Race Choisi -> Humain
-								Profil pouvant être séléctionné -> Aucun 
+							
+							** Les ressources telles que bois bétail et autres sont sauvegardé et les mêmes pour les 2 races donc 
+							
+								si le joueur choisit les humains et qu'auparavant il avait accumulé 400 $, il pourrait revenir au menu de sélection 
+								et choisir les aliens. Son compte d'argent resterait le même soit 400$ dans cette exemple. (cela est bon pour toutes les ressources du jeu)
 								
 								
