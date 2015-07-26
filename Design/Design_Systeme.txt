@@ -19,7 +19,7 @@ Detail Systeme :
 									de l'autre alien (6 % de progression)
 								
 							
-							** Les ressources telles que bois bétail et autres sont sauvegardé et les mêmes pour les 2 races donc 
+							** Les ressources telles que bois bétail et autres sont sauvegardé et sont les mêmes pour les 2 races donc 
 							
 								si le joueur choisit les humains et qu'auparavant il avait accumulé 400 $, il pourrait revenir au menu de sélection 
 								et choisir les aliens. Son compte d'argent resterait le même soit 400$ dans cette exemple. (cela est bon pour toutes les ressources du jeu)
